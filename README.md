@@ -2,7 +2,7 @@
 
 ## prettier
 
-I  folloed the rush prettier instructions here: https://rushjs.io/pages/maintainer/enabling_prettier/
+I followed the rush prettier instructions here: https://rushjs.io/pages/maintainer/enabling_prettier/
 
 I think everything, but maybe the pre-commit hook is good. Might re-evaluate that late.
 
