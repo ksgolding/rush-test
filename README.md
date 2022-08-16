@@ -45,4 +45,4 @@ module.exports = {
 };
 ```
 
-See https://www.npmjs.com/package/@rushstack/eslint-config for options.
+See https://www.npmjs.com/package/@rushstack/eslint-config for options and updates.
